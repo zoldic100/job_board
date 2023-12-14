@@ -1,0 +1,1 @@
+<button type="{{$type}}" {{$attributes->class([' bg-slate-500 rounded-lg text-yellow-50 hover:bg-slate-400/50 font-semibold py-1'])}} >{{$slot}}</button>
